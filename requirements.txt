@@ -40,7 +40,7 @@ dask==0.15.2
 datashape==0.5.4
 decorator==4.1.2
 distributed==1.18.3
-Django==2.1.2
+Django==2.1.11
 docutils==0.14
 dominate==2.3.4
 entrypoints==0.2.3
